@@ -1,6 +1,4 @@
-Aqui está a sugestão de README.md para o seu projeto de página web para a empresa de engenharia. Notei que a descrição e a realização estavam duplicadas, então condensei e estruturei o texto de forma mais organizada.
-
-🏗️ Página Web Institucional para Empresa de Engenharia
+🏗️ Página Web para Empresa de Engenharia
 📄 Descrição do Projeto
 Este repositório contém o desenvolvimento completo de uma página web institucional responsiva, com o foco principal na apresentação profissional e clara dos serviços de uma empresa de engenharia. O objetivo foi criar um canal de comunicação direto e eficiente entre a empresa e seus potenciais clientes.
 
