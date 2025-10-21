@@ -30,8 +30,7 @@ HTML
 
 CSS
 
-Estrutura Adicional Recomendada:
-1. Como Visualizar o Projeto:
+Como Visualizar o Projeto:
 
 Clone o repositório.
 
