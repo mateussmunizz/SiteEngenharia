@@ -1,7 +1,7 @@
 🏗️ Página Web para Empresa de Engenharia
 
 📄 Descrição do Projeto
-Este repositório contém o desenvolvimento completo de uma página web institucional responsiva, com o foco principal na apresentação profissional e clara dos serviços de uma empresa de engenharia. O objetivo foi criar um canal de comunicação direto e eficiente entre a empresa e seus potenciais clientes.
+Este repositório contém o desenvolvimento completo de uma página web responsiva, com o foco principal na apresentação profissional e clara dos serviços de uma empresa de engenharia. O objetivo foi criar um canal de comunicação direto e eficiente entre a empresa e seus potenciais clientes.
 
 🛠️ Tecnologias Utilizadas
 O projeto foi construído puramente com as tecnologias base da web, garantindo leveza e desempenho:
@@ -32,9 +32,9 @@ CSS
 
 Como Visualizar o Projeto:
 
-Clone o repositório.
+Clone o repositório [https://github.com/mateussmunizz/SiteEngenharia].
 
-Abra o arquivo index.html em seu navegador.
+Abra o arquivo **index.html** em seu navegador.
 
 Link Vercel:
 https://site-engenharia.vercel.app/
